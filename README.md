@@ -29,19 +29,3 @@ Fnally create final data set using the filteredDataset, split it by 'subject,act
 ##### Step 10
 Write the dataset in tidydataset.txt
 
-
-
-
-# select all rows so second argument is TRUE
-
-
-##### Step 1
-Create new working directory if it does not exist. Download zip file and set directory locations for input files
-##### Step 1
-Create new working directory if it does not exist. Download zip file and set directory locations for input files
-##### Step 1
-Create new working directory if it does not exist. Download zip file and set directory locations for input files
-##### Step 1
-Create new working directory if it does not exist. Download zip file and set directory locations for input files
-##### Step 1
-Create new working directory if it does not exist. Download zip file and set directory locations for input files
