@@ -91,7 +91,8 @@ Using the input data sets listed above, the run_analysis.R script performs below
 Output:
 =======
   Output data set contains below :
-	"subject" : (subject 1 through subject 30)
+  	
+  	"subject" : (subject 1 through subject 30)
 	
 	"activity" : ( WALKING,	WALKING_UPSTAIRS,	WALKING_DOWNSTAIRS,	SITTING	STANDING,	LAYING)
 	
