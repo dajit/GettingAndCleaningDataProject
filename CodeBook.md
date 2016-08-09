@@ -92,8 +92,12 @@ Output:
 =======
   Output data set contains below :
 	"subject" : (subject 1 through subject 30)
+	
 	"activity" : ( WALKING,	WALKING_UPSTAIRS,	WALKING_DOWNSTAIRS,	SITTING	STANDING,	LAYING)
+	
+	
   Mean and standard deviation meausres listed below:
+  
 	"timeBodyAccelerometer-mean()-X","timeBodyAccelerometer-mean()-Y","timeBodyAccelerometer-mean()-Z","timeBodyAccelerometer-std()-X"
 	,"timeBodyAccelerometer-std()-Y","timeBodyAccelerometer-std()-Z","timeGravityAccelerometer-mean()-X","timeGravityAccelerometer-mean()-Y"
 	,"timeGravityAccelerometer-mean()-Z","timeGravityAccelerometer-std()-X","timeGravityAccelerometer-std()-Y","timeGravityAccelerometer-std()-Z"
